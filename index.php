@@ -3,7 +3,11 @@
 
 <body>
 	
-	<h1> Hey </h1>
+	<?php
+
+		echo "Hey";
+
+	?>
 
 </body>
 
